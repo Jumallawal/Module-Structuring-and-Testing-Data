@@ -6,6 +6,7 @@
     "eamodio.gitlens",
     "ritwickdey.LiveServer",
     "vsliveshare.vsliveshare",
-    "Orta.vscode-jest"
+    "Orta.vscode-jest",
+    "jabedhossain.web-preview"
   ]
 }
